@@ -13,10 +13,16 @@ _Vídeo sobre box-model e box-shadow_ | _Vídeo sobre box-sizing_
 * Mais sobre tags HTML: https://www.caelum.com.br/apostila-html-css-javascript/introducao-a-html-e-css/#tags-html
 * Como funcionam as especificidades do CSS: https://www.caelum.com.br/apostila-html-css-javascript/css-avancado/#para-saber-mais-especificidade-de-seletores-css
 * Lista completa com nomes das cores: https://htmlcolorcodes.com/color-names/
-* Joguinho para aprender melhor sobre seletores CSS: https://flukeout.github.io/
+* CSS Diner - Joguinho para aprender melhor sobre seletores CSS: https://flukeout.github.io/
 
 ### + Aula 2
 
-* Joguinho para aprender melhor sobre FlexBox: https://flexboxfroggy.com/#pt-br
+* FlexBox Froggy - Joguinho para aprender melhor sobre FlexBox: https://flexboxfroggy.com/#pt-br
 * Guia de unidades no CSS: https://www.alura.com.br/artigos/guia-de-unidades-no-css
 * Guia do FlexBox: https://www.alura.com.br/artigos/css-guia-do-flexbox
+
+### + Aula 3
+
+* Grid Garden - Joguinho para aprender melhor sobre Grid: https://cssgridgarden.com/
+* MSDN Web Docs Grid: https://developer.mozilla.org/pt-BR/docs/Web/CSS/grid
+* CSS Grid complete guide: https://css-tricks.com/snippets/css/complete-guide-grid/
