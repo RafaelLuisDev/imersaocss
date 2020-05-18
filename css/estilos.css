@@ -47,6 +47,7 @@ header {
     position: fixed;
     width: 100vw;
     top: 0;
+    z-index: 1;
 }
 
 .menu ul {
@@ -61,6 +62,14 @@ header {
 .menu a {
     display: block;
     padding: 10px 20px;
+    transition: background-color 5s, color 2s;
+}
+
+.menu a:hover {
+    display: block;
+    padding: 10px 20px;
+    background-color: teal;
+    color: white;
 }
 
 a {
@@ -70,6 +79,25 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+.titulo {
+    transform: scale(0.2) translateY(30vh);
+    opacity: 0;
+    animation: 1s linear 2s animacaoTitulo forwards;
+}
+
+@keyframes animacaoTitulo {
+    /* Não precisa colocar nada pois pega os estilos que já estão aplicados */
+    /* 0% {
+
+    } */
+    100% {
+        transform: scale(1) translateY(0);
+        opacity: 1;
+    }
+    /* pode se usar from-to ao invés de 0% a 100% */
+
 }
 
 .site-title, .site-subtitle {
@@ -131,11 +159,32 @@ a:hover {
     width: 240px;
     object-fit: cover;
     object-position: left bottom;
+    transition: transform 0.5s;
 }
 
-@media (min-width: 840px) {
+.img-portfolio:hover {
+    transform: scale(1.1) rotate(-2deg);
+}
+
+/* @media (min-width: 840px) {
     .img-portfolio {
         height: auto;
         width: 100%;
     }
+} */
+
+.contato .icons{
+    text-align: center;
+}
+
+.contato a {
+    color: whitesmoke;
+    font-size: 4em;
+    transition: text-shadow 1s;
+}
+
+.contato a:active,
+.contato a:hover{
+    text-decoration: none;
+    text-shadow: rgba(255, 255, 255, 0.5) 0 0 10px;
 }
