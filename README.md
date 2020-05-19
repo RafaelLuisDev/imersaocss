@@ -24,18 +24,20 @@ _Vídeo sobre box-model e box-shadow_ | _Vídeo sobre box-sizing_
 ### + Aula 3
 
 * Grid Garden - Joguinho para aprender melhor sobre Grid: https://cssgridgarden.com/
-* MSDN Web Docs - Grid: https://developer.mozilla.org/pt-BR/docs/Web/CSS/grid
+* MDN Web Docs - Grid: https://developer.mozilla.org/pt-BR/docs/Web/CSS/grid
 * CSS Grid complete guide: https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ### + Aula 4
 
 * Ícones legais - Font Awesome: https://fontawesome.com/
-* MSDN Web Docs - Seletor de cores CSS: https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Colors/seletor_de_cores
+* MDN Web Docs - Seletor de cores CSS: https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Colors/seletor_de_cores
 * CSS cubic-bezier Builder - http://www.roblaplaca.com/examples/bezierBuilder/
 
 ### + Aula 5
 
 * Clippy - Ferramenta para ajudar a criar o seu próprio clip-path: https://bennettfeely.com/clippy/
+* MDN Web Docs - CSS Masking: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Masking 
 * Can I Use? - Descubra a compatibilidade de propriedades de HTML e CSS: https://caniuse.com/
 * Generative patterns - Arte generativa via CSS: https://codepen.io/cobra_winfrey/pen/zYvdKPG
 * CSS Doodle - Arte generativa via CSS: https://css-doodle.com/
+* Mergulhando no HTML 5 - novas tags semânticas: https://diveintohtml5.com.br/semantics.html#new-elements 
