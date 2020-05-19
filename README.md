@@ -32,3 +32,10 @@ _Vídeo sobre box-model e box-shadow_ | _Vídeo sobre box-sizing_
 * Ícones legais - Font Awesome: https://fontawesome.com/
 * MSDN Web Docs - Seletor de cores CSS: https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Colors/seletor_de_cores
 * CSS cubic-bezier Builder - http://www.roblaplaca.com/examples/bezierBuilder/
+
+### + Aula 5
+
+* Clippy - Ferramenta para ajudar a criar o seu próprio clip-path: https://bennettfeely.com/clippy/
+* Can I Use? - Descubra a compatibilidade de propriedades de HTML e CSS: https://caniuse.com/
+* Generative patterns - Arte generativa via CSS: https://codepen.io/cobra_winfrey/pen/zYvdKPG
+* CSS Doodle - Arte generativa via CSS: https://css-doodle.com/
